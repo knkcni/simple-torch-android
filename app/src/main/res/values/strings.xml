@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleTorch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="apropos">A propos de</string>
+    <string name="a_propos_de">A propos de</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="image_description">Interrupteur de SimpleTorch</string>
+    <string name="off_flash">OFF</string>
+    <string name="no_flash">Vous ne possedez pas de camera ou celle-ci est indisponible.</string>
+    <string name="ok">OK</string>
+    <string name="on_flash">ON</string>
+    <string name="s_eteindre">Eteindre</string>
+    <string name="on_button">OnButton</string>
+</resources>
