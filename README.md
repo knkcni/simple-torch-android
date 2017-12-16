@@ -7,5 +7,5 @@
 ***
 A real simple light, without any ads, compatibility back to Android 4.1 (JELLY_BEAN)
 
-### a GIF is worth a thousand words
+### A GIF is worth a thousand words
 * ![](APK/simple-torche-video.gif)
