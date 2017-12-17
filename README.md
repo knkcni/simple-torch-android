@@ -6,6 +6,7 @@
 
 ***
 I needed a light on my old phone. I could not found a simple one, without ads, so I've done this one. 
+Hope you will like it as much as I do!
 
 ### A GIF is worth a thousand words
 * ![](APK/simple-torche-video.gif)
